@@ -1,0 +1,11 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Rafael44555/teste.git",
+  "author": "Rafael Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
